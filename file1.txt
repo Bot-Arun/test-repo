@@ -3,3 +3,5 @@ i am file one
 i am line 3
 i am line 4
 i am line 5
+sample
+random
